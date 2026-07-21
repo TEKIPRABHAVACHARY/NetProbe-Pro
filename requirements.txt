@@ -1,0 +1,6 @@
+customtkinter==5.2.2
+threading==0.0.0
+socket==0.0.0
+requests==2.31.0
+scapy==2.5.0
+pillow==10.1.0
